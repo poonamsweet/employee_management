@@ -3,7 +3,7 @@
 
 ## Overview
 
-`employee management` is a simple command-line tool for add employee .It allows management  to add employee and view all employee and edit emplployee details and delete. 
+`employee management` is a simple command-line tool for add employee .It allows management  to add employee and view all employee and edit employee details and delete. 
 ## Features
 
 - Add functionality for Add Employee, Update Employee, Delete Employee, View All Employee, Search Employee based on designation, and Search Employee based on name.
