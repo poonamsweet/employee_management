@@ -1,0 +1,10 @@
+asgiref==3.8.1
+chardet==5.2.0
+Django==5.0.4
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+pillow==10.3.0
+PyJWT==2.8.0
+reportlab==4.1.0
+sqlparse==0.4.4
+tzdata==2024.1
